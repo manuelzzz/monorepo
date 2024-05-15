@@ -7,4 +7,7 @@ class Calculator {
 
   /// Returns [value] minus 1.
   int subtractOne(int value) => value - 1;
+
+  /// Returns [value] times 2.
+  int multiplyByTwo(int value) => value * 2;
 }
