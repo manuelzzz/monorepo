@@ -1,6 +1,7 @@
 name: melos_dependency
 description: "A new Flutter package project."
 version: 1.0.0
+homepage: https://example.com
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
