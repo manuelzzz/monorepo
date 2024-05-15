@@ -4,8 +4,13 @@ packages:
     - apps/**
     - packages/**
 
+command:
+    version:
+        branch: main
+        releaseUrl: true
+
 scripts:
     analyze:
-        exec: melos exec dart analyze .
+        exec: dart analyze .
     format:
-        exec: melos exec dart format . --fix
+        exec: dart format . --fix
