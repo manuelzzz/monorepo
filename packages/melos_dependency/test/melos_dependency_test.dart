@@ -16,4 +16,11 @@ void main() {
     expect(calculator.subtractOne(-1), -2);
     expect(calculator.subtractOne(100), 99);
   });
+
+  test('multiply by two the input values', () {
+    final calculator = Calculator();
+    expect(calculator.multiplyByTwo(1), 2);
+    expect(calculator.multiplyByTwo(40), 80);
+    expect(calculator.multiplyByTwo(-6), -12);
+  });
 }
