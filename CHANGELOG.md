@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`melos_dependency` - `v1.0.0`](#melos_dependency---v100)
+
+Packages with other changes:
+
+ - There are no other changes in this release.
+
+---
+
+#### `melos_dependency` - `v1.0.0`
+
+ - **BREAKING** **FEAT**: String methods with class `Concatenator`.
+
+
+## 2024-05-15
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - There are no breaking changes in this release.
 
 Packages with other changes:

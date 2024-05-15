@@ -1,3 +1,9 @@
+## 1.0.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FEAT**: String methods with class `Concatenator`.
+
 ## 0.1.0
 
  - **FIX**: removint the `homepage` field.
