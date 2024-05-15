@@ -11,3 +11,9 @@ class Calculator {
   /// Returns [value] times 2.
   int multiplyByTwo(int value) => value * 2;
 }
+
+/// A Concatenator
+class Concatenator {
+  /// Returns [a] concatenated with [b].
+  String concatenate(String a, String b) => a + b;
+}
