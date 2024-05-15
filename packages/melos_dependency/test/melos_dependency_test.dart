@@ -23,4 +23,11 @@ void main() {
     expect(calculator.multiplyByTwo(40), 80);
     expect(calculator.multiplyByTwo(-6), -12);
   });
+
+  test('concatenate the two inputs ', () {
+    final concatenator = Concatenator();
+    expect(concatenator.concatenate("Git", "Hub"), "GitHub");
+    expect(concatenator.concatenate("Flu", "tter"), "Flutter");
+    expect(concatenator.concatenate("a", "b"), "ab");
+  });
 }
