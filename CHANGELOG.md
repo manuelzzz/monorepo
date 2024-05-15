@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`melos_dependency` - `v1.0.1`](#melos_dependency---v101)
+
+---
+
+#### `melos_dependency` - `v1.0.1`
+
+ - **DOCS**: added the `homepage`.
+
+
+## 2024-05-15
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`melos_dependency` - `v1.0.0`](#melos_dependency---v100)
 
 Packages with other changes:

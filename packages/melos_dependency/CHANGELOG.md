@@ -1,3 +1,7 @@
+## 1.0.1
+
+ - **DOCS**: added the `homepage`.
+
 ## 1.0.0
 
 > Note: This release has breaking changes.
