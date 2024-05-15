@@ -1,3 +1,8 @@
+## 0.1.0
+
+ - **FIX**: removint the `homepage` field.
+ - **FEAT**: implementing the multiplyByTwo method.
+
 ## 0.0.2
 
  - **FEAT**: subtract one method.
