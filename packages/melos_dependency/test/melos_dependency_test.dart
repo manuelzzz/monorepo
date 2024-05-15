@@ -9,4 +9,11 @@ void main() {
     expect(calculator.addOne(-7), -6);
     expect(calculator.addOne(0), 1);
   });
+
+  test('subtracts one to input values', () {
+    final calculator = Calculator();
+    expect(calculator.subtractOne(1), 0);
+    expect(calculator.subtractOne(-1), -2);
+    expect(calculator.subtractOne(100), 99);
+  });
 }
